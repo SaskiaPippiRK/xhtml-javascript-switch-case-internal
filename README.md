@@ -1,0 +1,1 @@
+# xhtml-javascript-switch-case-internal
